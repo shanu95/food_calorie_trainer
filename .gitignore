@@ -1,0 +1,8 @@
+# virtual environment
+.venv/
+
+# big data archives or checkpoints
+*.tgz
+*.tar.gz
+*.pth
+data/food-101/images/
